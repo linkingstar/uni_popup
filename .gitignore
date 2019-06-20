@@ -12,3 +12,4 @@
 .idea/
 debug/
 app/build/*
+app/release/*
